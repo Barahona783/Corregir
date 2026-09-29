@@ -1,0 +1,8 @@
+{
+  "id": "com.andres.cpplinter",
+  "name": "C++ Syntax Checker",
+  "version": "1.0.0",
+  "description": "Revisa errores de sintaxis básicos en C++",
+  "main": "main.js",
+  "author": "Andrés"
+}
